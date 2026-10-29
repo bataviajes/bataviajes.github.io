@@ -1,2 +1,3 @@
-# bataviajes.github.io
-Consulta de viaje - BATA Travel Assistance
+# BATA Travel Assistance
+
+Asistente de consulta de viaje: https://bataviajes.github.io
